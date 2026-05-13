@@ -15,9 +15,6 @@
 
 ## Стек технологий
 - **Язык программирования:** Python
-- **Библиотека для Telegram‑бота:** python-telegram-bot
-- **HTTP‑запросы:** requests
-- **Работа с Excel‑файлами:** openpyxl
 - **Деплой:** Vercel
 
 
